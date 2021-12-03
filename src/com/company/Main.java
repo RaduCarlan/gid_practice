@@ -47,6 +47,6 @@ public class Main {
 // Afisam numarul lipsa.
         System.out.println("\n The missing number is: " + removed);
     }
-// Comment for testing
+
 }
 
